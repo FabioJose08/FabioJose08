@@ -1,18 +1,12 @@
 # 👨‍💻 Fábio José
 
-Software developer focused on back-end development, web applications and building digital solutions through technology.
+Desenvolvedor de software com foco em back-end, aplicações web e construção de soluções digitais. Explorando o ecossistema Java e desenvolvendo projetos com diferentes tecnologias e ferramentas.
 
-\<p align="left">   \<a href="[https://github.com/FabioJose08](https://github.com/FabioJose08)">     \<img height="35" src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/in/SEU-USUARIO/](https://www.linkedin.com/in/SEU-USUARIO/)">     \<img height="35" src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="[https://instagram.com/fabinho8\_/](https://instagram.com/fabinho8_/)">     \<img height="35" src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" />   \</a> \</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabioJose08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabinho8_/)
 
----
-
-### 👨‍💻 About Me
-
-Desenvolvimento de software com foco em aplicações back-end, sistemas e soluções web. Tenho experiência prática em projetos que envolvem desenvolvimento de aplicações, integração de serviços e criação de soluções digitais.
-
-Atualmente, direciono meus estudos para Java e desenvolvimento back-end, ampliando meus conhecimentos em diferentes tecnologias e arquiteturas.
-
-🎓 Ciência da Computação — UNIFG | 3º período.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&width=500&lines=Back-end+Development;Java+%7C+Node.js+%7C+Python;Building+digital+solutions" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -20,61 +14,105 @@ Atualmente, direciono meus estudos para Java e desenvolvimento back-end, amplian
 
 **Programming Languages**
 
-
-
-
-
-\
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Back-end and Frameworks**
 
-
-\
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Front-end and Platforms**
 
-
-\
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Tools and Libraries**
 
-
-
-\
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-\<table>   \<tr>     \<td width="50%" valign="top">       \<h3>🚇 \<a href="[https://github.com/FabioJose08/Metrorec](https://github.com/FabioJose08/Metrorec)">MetroREC\</a>\</h3>       Railway transportation simulator for the Recife metropolitan region, featuring interactive maps, train simulation and journey planning.       \<br>\<br>       \<sub>Python · Tkinter · TkinterMapView · Pillow\</sub>     \</td>     \<td width="50%" valign="top">       \<h3>🚚 \<a href="[https://github.com/FabioJose08/FrotaRec](https://github.com/FabioJose08/FrotaRec)">FrotaRec\</a>\</h3>       Fleet management and logistics platform with route optimization using the Traveling Salesman Problem (TSP).       \<br>\<br>       \<sub>JavaScript · HTML · CSS · Leaflet · OSRM\</sub>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>🛒 \<a href="[https://github.com/FabioJose08/Lagoa-eletros](https://github.com/FabioJose08/Lagoa-eletros)">Lagoa Eletros\</a>\</h3>       E-commerce platform with product catalog, customer area and administrative dashboard.       \<br>\<br>       \<sub>React · TypeScript · Firebase\</sub>     \</td>     \<td width="50%" valign="top">       \<h3>💈 \<a href="[https://github.com/FabioJose08/Barber-Flow](https://github.com/FabioJose08/Barber-Flow)">BarberFlow\</a>\</h3>       Barber shop management system with appointment scheduling, financial dashboard and customer management.       \<br>\<br>       \<sub>Node.js · Express · EJS · Firebase\</sub>     \</td>   \</tr> \</table>
+**🚇 [MetroREC](https://github.com/FabioJose08/Metrorec)**
+
+Simulador do sistema ferroviário da Região Metropolitana do Recife, com mapa interativo, circulação de trens e planejamento de viagens.
+
+`Python` `Tkinter` `TkinterMapView` `Pillow`
+
+**🚚 [FrotaRec](https://github.com/FabioJose08/FrotaRec)**
+
+Sistema de gestão de frotas e planejamento logístico, com otimização de rotas pelo Problema do Caixeiro Viajante (TSP) e estimativa de economia de combustível.
+
+`JavaScript` `HTML` `CSS` `Leaflet` `OSRM`
+
+**🛒 [Lagoa Eletros](https://github.com/FabioJose08/Lagoa-eletros)**
+
+Plataforma de comércio eletrônico com catálogo de produtos, área do cliente e painel administrativo integrado ao Firebase.
+
+`React` `TypeScript` `Firebase` `Tailwind CSS`
+
+**💈 [BarberFlow](https://github.com/FabioJose08/Barber-Flow)**
+
+Sistema de gerenciamento para barbearias, com agendamentos, controle financeiro, gerenciamento de clientes e painel administrativo.
+
+`Node.js` `Express` `EJS` `Firebase`
+
+**🌐 [AB Assessoria Contábil](https://github.com/FabioJose08/abcontabil)**
+
+Site institucional desenvolvido para apresentação de serviços e presença digital de uma assessoria contábil.
+
+`HTML` `CSS` `JavaScript`
+
+**🎵 [Ponto Sertanejo](https://github.com/FabioJose08/ponto-sertanejo-final)**
+
+Landing page comercial com identidade visual personalizada, apresentação de produtos e canais de atendimento.
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=FabioJose08&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=FabioJose08\&show_icons=true\&theme=gruvbox\&hide_border=true\&include_all_commits=true)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=FabioJose08&layout=compact&theme=gruvbox&hide_border=true&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioJose08\&layout=compact\&theme=gruvbox\&hide_border=true\&langs_count=6)" /> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabioJose08&show_icons=true&theme=gruvbox&hide_border=true)
 
-\<p align="center">   \<img width="70%" src="[https://streak-stats.demolab.com?user=FabioJose08&theme=gruvbox&hide_border=true](https://streak-stats.demolab.com?user=FabioJose08\&theme=gruvbox\&hide_border=true)" /> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioJose08&layout=compact&theme=gruvbox&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FabioJose08&theme=gruvbox&hide_border=true)
 
 ---
 
-### 👨‍💻 My Development Journey
+### 📈 Contribution Activity
 
-\<details>
-&#x20; \<summary>\<b>Discover my journey\</b>\</summary>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FabioJose08&theme=github-compact&hide_border=true&area=true)
 
-My journey in software development is driven by curiosity, continuous learning and the desire to build useful digital products.
+---
 
-Through academic, personal and practical projects, I have explored different areas of development, from desktop applications and web interfaces to management systems, integrations and route optimization.
+### 👨‍💻 About My Journey
 
-I am currently focusing on strengthening my back-end skills, especially with Java, while continuing to expand my experience with modern development technologies.
+<details>
+  <summary><b>More about me</b></summary>
 
-\</details>
+  Minha trajetória no desenvolvimento de software é construída através de projetos práticos, estudos e desafios que ampliam meus conhecimentos em tecnologia.
 
-\<p align="center">
-&#x20; \<i>Building solutions, one project at a time.\</i>
-\</p>
+  Tenho interesse especial em desenvolvimento back-end e arquitetura de aplicações. Atualmente, curso Ciência da Computação na UNIFG, no 3º período, e direciono meu aprendizado para Java e o desenvolvimento de sistemas.
+
+  Meu objetivo é transformar conhecimento técnico em soluções digitais úteis, bem estruturadas e capazes de resolver problemas reais.
+
+</details>
+
+<p align="center">
+  <b>Building solutions, one project at a time. 🚀</b>
+</p>
