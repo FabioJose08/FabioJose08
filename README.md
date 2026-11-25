@@ -20,7 +20,7 @@ Desenvolvo projetos de software e soluções digitais, com experiência prática
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&width=520&lines=Software+Development;Back-end+Development;Java+%7C+Python+%7C+JavaScript;Building+digital+solutions" alt="Typing animation"/>
 </p>
 
-🎓 **Ciência da Computação — UNIFG | 3º período**
+🎓 **Ciência da Computação | 3º período**
 
 ---
 
