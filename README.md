@@ -97,7 +97,7 @@ Desenvolvo projetos de software e soluções digitais, com experiência prática
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/FabioJose08/Lagoa-eletros">Lagoa Eletros</a></h3>
+      <h3>🛒 <a href="https://github.com/FabioJose08/Lagoa-eletros">Reviva Eletros</a></h3>
       <p>Plataforma de comércio eletrônico com catálogo de produtos, área do cliente, autenticação e painel administrativo integrado ao Firebase.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
